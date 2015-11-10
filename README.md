@@ -1,6 +1,6 @@
 # VinciDropbox
 
-**TODO: Add description**
+First implementation of dropbox wrapper for [Vinci](https://github.com/leifg/vinci)
 
 ## Installation
 
